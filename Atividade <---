@@ -1,0 +1,14 @@
+void main()
+{
+somar(2,3);
+somar(25,25);
+somar(2500,2500);
+somar(25000,25000);
+}
+
+void somar(int x,int y)
+{
+int resultado = x + y;
+  
+print('O resultado da soma é $resultado!');
+}
